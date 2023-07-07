@@ -10615,15 +10615,15 @@ Game.Launch=function()
 		
 		var order=0;//this is used to set the order in which the items are listed
 		
-		Game.BankAchievement('Wake and bake');
-		Game.BankAchievement('Making some dough');
-		Game.BankAchievement('So baked right now');
-		Game.BankAchievement('Fledgling bakery');
+		Game.BankAchievement('I love you so much im so proud of you Maggie');
+		Game.BankAchievement('One day we'll get married');
+		Game.BankAchievement('What do you want to name our kids');
+		Game.BankAchievement('Always forever');
 		Game.BankAchievement('Affluent bakery');
-		Game.BankAchievement('World-famous bakery');
-		Game.BankAchievement('Cosmic bakery');
-		Game.BankAchievement('Galactic bakery');
-		Game.BankAchievement('Universal bakery');
+		Game.BankAchievement('World famous DICK');
+		Game.BankAchievement('Cosmic buttcheeks');
+		Game.BankAchievement('Galactic PUSSY');
+		Game.BankAchievement('Universal Asshole');
 		Game.BankAchievement('Timeless bakery');
 		Game.BankAchievement('Infinite bakery');
 		Game.BankAchievement('Immortal bakery');
@@ -10651,7 +10651,7 @@ Game.Launch=function()
 		order=11010;
 		new Game.Achievement('Neverclick','Make <b>1 million</b> cookies by only having clicked <b>15 times</b>.',[12,0]);//Game.last.pool='shadow';
 		order=1000;
-		new Game.Achievement('Clicktastic','Make <b>1,000</b> cookies from clicking.',[11,0]);
+		new Game.Achievement('ClitTASTIC','Make <b>1,000</b> cookies from clicking.',[11,0]);
 		new Game.Achievement('Clickathlon','Make <b>100,000</b> cookies from clicking.',[11,1]);
 		new Game.Achievement('Clickolympics','Make <b>10,000,000</b> cookies from clicking.',[11,2]);
 		new Game.Achievement('Clickorama','Make <b>1,000,000,000</b> cookies from clicking.',[11,13]);
@@ -10675,7 +10675,7 @@ Game.Launch=function()
 		Game.TieredAchievement('Farm ill','Have <b>100</b> farms.','Farm',3);
 		
 		order=1400;
-		Game.TieredAchievement('Production chain','Have <b>1</b> factory.','Factory',1);
+		Game.TieredAchievement('Prostitution Chain','Have <b>1</b> factory.','Factory',1);
 		Game.TieredAchievement('Industrial revolution','Have <b>50</b> factories.','Factory',2);
 		Game.TieredAchievement('Global warming','Have <b>100</b> factories.','Factory',3);
 		
