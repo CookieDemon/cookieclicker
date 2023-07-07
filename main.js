@@ -10616,7 +10616,7 @@ Game.Launch=function()
 		var order=0;//this is used to set the order in which the items are listed
 		
 		Game.BankAchievement('I love you so much im so proud of you Maggie');
-		Game.BankAchievement('One day we'll get married');
+		Game.BankAchievement('ur gonna marry me');
 		Game.BankAchievement('What do you want to name our kids');
 		Game.BankAchievement('Always forever');
 		Game.BankAchievement('Affluent bakery');
