@@ -10615,19 +10615,19 @@ Game.Launch=function()
 		
 		var order=0;//this is used to set the order in which the items are listed
 		
-		Game.BankAchievement('I love you so much im so proud of you Maggie');
-		Game.BankAchievement('ur gonna marry me');
-		Game.BankAchievement('What do you want to name our kids');
+		Game.BankAchievement('Congrats you no life');
+		Game.BankAchievement('Why are you still here');
+		Game.BankAchievement('Dang school sucks doesn't it?');
 		Game.BankAchievement('Always forever');
 		Game.BankAchievement('Affluent bakery');
-		Game.BankAchievement('World famous DICK');
+		Game.BankAchievement('GO OUTSIDE');
 		Game.BankAchievement('Cosmic buttcheeks');
-		Game.BankAchievement('Galactic PUSSY');
-		Game.BankAchievement('Universal Asshole');
+		Game.BankAchievement('It's over bro');
+		Game.BankAchievement('gg');
 		Game.BankAchievement('Timeless bakery');
 		Game.BankAchievement('Infinite bakery');
 		Game.BankAchievement('Immortal bakery');
-		Game.BankAchievement('Don\'t stop me now');
+		Game.BankAchievement('Don't stop me now');
 		Game.BankAchievement('You can stop now');
 		Game.BankAchievement('Cookies all the way down');
 		Game.BankAchievement('Overdose');
